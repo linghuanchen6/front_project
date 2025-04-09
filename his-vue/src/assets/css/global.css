@@ -1,0 +1,17 @@
+/* 全局样式 */
+
+html, body, #app{
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+}
+
+.el-breadcrumb{
+	margin-bottom: 20px;
+}
+.el-table{
+	margin: 20px 0;
+}
+.el-input{
+	margin-right: 20px;
+}
